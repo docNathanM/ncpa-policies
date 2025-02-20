@@ -29,3 +29,6 @@ My notes from last time with `nbpages` which I was working on for ChE316 are lin
 
 The file `~/ncpa-policies/.github/workflows/deploy.yml` is what controls the GitHub workflow actions. When I commit any changes it triggers the actions that actually run the build of the jupyter book in the background ... this is quite amazing because it does all the hard work on compiling the book for me in the background!
 
+## Workflow
+
+Use `GitHub Desktop` to clone the repository locally. Open the repository with SublimeText to make an edits. Then, push the edits back to the server. The USAFA-ECE template is GREAT and gives me all the tools I needed to get started building this out!
