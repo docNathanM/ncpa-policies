@@ -20,8 +20,8 @@ The `[code]` will be ...
     - 100 Executive Structure
       - [NCPA.GV.100.001 *Executive Structure and Governance*](ncpa.gv.100.001)
     - 200 Staff Positions and Promotion
-      - NCPA.GV.200.001 *Scientist Position and Promotion Guidelines*
-      - NCPA.GV.200.002 *RandD Staff Position and Promotion Guidelines*
+      - [NCPA.GV.200.001 *Scientist Position and Promotion Guidelines*](ncpa.gv.200.001)
+      - [NCPA.GV.200.002 *R+D Staff Position and Promotion Guidelines*](ncpa.gv.200.002)
     - 300 Joint Appointments and Affiliate Status
       - NCPA.GV.300.001 *Joint Appointment Guidelines*
   - RA Research Administration
