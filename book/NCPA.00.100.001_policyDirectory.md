@@ -1,21 +1,10 @@
-# NCPA Policies
-
-## Related University Policies
-
-In all cases, the University policies are to be consulted foremost. NCPA policies are subordinate to University policies in all cases where conflicts may appear. The University policies are organized by administrative division then policy area then policy group number then policy number. The policies can be found at https://policies.olemiss.edu/.
-
-```{image} attachments/fig_UMpolicies.jpg
-:alt: UM Policy Tree
-:class: bg-primary mb-1
-:width: 400px
-:align: center
-```
+# Policy Directory
 
 ## Naming Convention for NCPA Policy Files
 
 `[code] - [status] - [effective data] - [title]`
 
-The `[code]` will be...
+The `[code]` will be ...
 
  `NCPA.[2 letter area ID].[3 digit group number].[3 digit item number]`
 
@@ -47,7 +36,7 @@ The `[code]` will be...
     - 200 Controlled Unclassified Information (CUI)
       - NCPA.SC.200.001 *Protection of CUI*
 
-## Things That Need Work Next
+<!-- ## Things That Need Work Next
 
 - [ ] **NCPA.ED.100.001 needs immediate revision based on current pay structure and "temp employment" policies within HR.**
 - [ ] Create NCPA.GV.300.002  *Affiliate Status Definition and Expectations*
@@ -56,4 +45,4 @@ The `[code]` will be...
 - [ ] Currently we lack any written policy on
   - space allocation
   - executive committee membership/rotation
-  - advisory board membership/rotation/duties
+  - advisory board membership/rotation/duties -->
