@@ -1,5 +1,5 @@
 (ncpa.gv.200.002)=
-# Guidelines for the Appointment and Promotion of R+D Staff
+# Guidelines for the Appointment and Promotion of Research and Development Staff
 
 **file**: *NCPA.GV.200.002_active_2024-07-25_RandDstaffPositionAndPromotionGuidelines*
 
