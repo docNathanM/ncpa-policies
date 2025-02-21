@@ -2,9 +2,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: DFEC
-logo: logo.png
+title: NCPA Policies
+author: NEM
+logo: ncpa-logo.png
 copyright: '2023'
 
 # Force re-execution of notebooks on each build.
