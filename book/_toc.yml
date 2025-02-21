@@ -6,10 +6,10 @@ root: intro
 parts:
   - caption: Introduction
     chapters:
-      - file: NCPA.00.100.001_policyDirectory
-      - file: NCPA.00.100.002_relationToUniversityPolicy
+      - file: policyfiles/NCPA.00.100.001_policyDirectory
+      - file: policyfiles/NCPA.00.100.002_relationToUniversityPolicy
   - caption: Policies
     chapters:
       - file: policyfiles/NCPA.ED.100.001_active_2005-02-04_studentEmployementGuidelines
-        title: NCPA.ED.100.001 - active - 2005-02-04 - Student Employment Guidelines
+        title: NCPA.ED.100.001 *Student Employment Guidelines*
 
