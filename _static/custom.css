@@ -21,3 +21,15 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
+/* Adjust the sidebar width */
+div#sidebar {
+    width: 250px;  /* Change this value to the desired width */
+}
+
+@media (max-width: 768px) {
+    /* Optional: Adjust sidebar width on smaller screens */
+    div#sidebar {
+        width: 200px;  /* Example: smaller width for mobile */
+    }
+}
