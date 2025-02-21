@@ -24,7 +24,7 @@ body {
 
 /* Adjust the sidebar width */
 div#sidebar {
-    width: 250px;  /* Change this value to the desired width */
+    width: 350px;  /* Change this value to the desired width */
 }
 
 @media (max-width: 768px) {

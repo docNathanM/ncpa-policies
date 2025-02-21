@@ -2,11 +2,13 @@
 
 ## Naming Convention for NCPA Policy Files
 
-`[code] - [status] - [effective data] - [title]`
+`[code]_[status]_[effective data]_[title]`
 
 The `[code]` will be ...
 
  `NCPA.[2 letter area ID].[3 digit group number].[3 digit item number]`
+
+ The `[status]` will be one of draft, pending, approved, active, retired. 
 
 ## Directory
 
