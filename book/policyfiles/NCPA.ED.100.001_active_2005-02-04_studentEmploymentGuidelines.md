@@ -3,7 +3,30 @@
 
 **file**: *NCPA.ED.100.001_active_2005-02-04_studentEmploymentGuidelines*
 
-**status**: active
+**status**: draft
+
+*The only existing document in force regarding pay rates dates to 2005 and is no longer relevant. Increased rates have been paid recently, but the policy is out of date and needs to be approved.*
+
+## Student Pay Rates
+
+**date**: as of Aug 19, 2024
+
+The following tables show compensation for undergrads and stipend amounts for Graduate Assistants of the NCPA Aeroacoustics group effective Fall 2024-2025.
+
+| Graduate Students |                                                              |
+| ----------------- | ------------------------------------------------------------ |
+| M.S. Year 1       | \$31,000                                                     |
+| M.S. Year 2       | \$33,000                                                     |
+| Ph.D.             | \$35,000 annual stipend increasing \$1000<br> each year if approved by PI contingent on funds availability. |
+
+| Undergraduate Students                   |         |
+| ---------------------------------------- | ------- |
+| 1st Year (no experience)                 | \$14/hr |
+| 2nd Year with NCPA or similar experience | \$15/hr |
+| 3rd Year with NCPA or similar experience | \$16/hr |
+| 4th Year with NCPA or similar experience | \$16/hr |
+
+
 
 ## Historical Reference: *Bass Memo on Student Pay*
 

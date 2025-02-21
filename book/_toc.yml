@@ -10,6 +10,8 @@ parts:
       - file: policyfiles/NCPA.00.100.002_relationToUniversityPolicy
   - caption: Policies
     chapters:
-      - file: policyfiles/NCPA.ED.100.001_active_2005-02-04_studentEmployementGuidelines
+      - file: policyfiles/NCPA.ED.100.001_active_2005-02-04_studentEmploymentGuidelines
         title: NCPA.ED.100.001 Student Employment Guidelines
+      - file: policyfiles/NCPA.GV.100.001_active_2013-06-20_executiveStructureAndGovernance
+        title: NCPA.GV.100.001 Executive Structure and Governance
 
