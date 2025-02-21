@@ -28,7 +28,7 @@ An individual who fulfills the necessary requirements for time-in-service is eli
 
 ## Criteria for Appointment Ranks
 
-The criteria to be considered in the evaluation for appointment and promotion for the various ranks shall be outlined below:
+The criteria to be considered in the evaluation for appointment and promotion for the various ranks is outlined below:
 
 ### Associate Scientist
 
