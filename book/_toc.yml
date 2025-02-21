@@ -2,11 +2,11 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: NCPA.00.100.001_introToPolicies
+root: intro
 parts:
-  # - caption: Course Info
-    # chapters:
-      # - file: faq
+  - caption: Course Info
+    chapters:
+      - file: NCPA.00.100.001_introToPolicies
   - caption: NCPA Policies
     chapters:
       - file: markdown
