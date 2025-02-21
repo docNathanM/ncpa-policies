@@ -38,6 +38,10 @@ html:
   use_issues_button: true
   use_repository_button: true
 
+# Add some custom CSS tweaking.
+html:
+  extra_css: ["_static/custom.css"]
+
 # Uncomment to use mermaid diagrams
 # sphinx:
   # extra_extensions:
