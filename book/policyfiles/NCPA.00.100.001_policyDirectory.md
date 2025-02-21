@@ -2,7 +2,7 @@
 
 ## Naming Convention for NCPA Policy Files
 
-`[code]_[status]_[effective data]_[title]`
+`[code]_[status]_[effective date]_[title]`
 
 The `[code]` will be ...
 
