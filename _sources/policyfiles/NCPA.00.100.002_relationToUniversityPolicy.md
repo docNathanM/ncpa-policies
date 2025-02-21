@@ -4,7 +4,6 @@ In all cases, the University policies are to be consulted foremost. NCPA policie
 
 ```{image} attachments/fig_UMpolicies.jpg
 :alt: UM Policy Tree
-:class: bg-primary mb-1
-:width: 400px
+:width: 50%
 :align: center
 ```
