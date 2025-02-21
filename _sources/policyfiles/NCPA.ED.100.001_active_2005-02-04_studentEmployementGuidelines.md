@@ -1,3 +1,4 @@
+(ncpa:ed:100:001)=
 # Student Employment Guidelines
 
 **file**: *NCPA.ED.100.001_active_2005-02-04_studentEmploymentGuidelines*
