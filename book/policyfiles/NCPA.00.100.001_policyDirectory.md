@@ -15,7 +15,7 @@ The `[code]` will be ...
 - NCPA National Center for Physical Acoustics
   - ED Education and Outreach
     - 100 Student Employment
-      - NCPA.ED.100.001 *Student Employment Guidelines*
+      - [NCPA.ED.100.001 *Student Employment Guidelines*](ncpa:ed:100:001)
   - GV Governance
     - 100 Executive Structure
       - NCPA.GV.100.001 *Executive Structure and Governance*
