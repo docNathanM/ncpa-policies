@@ -18,7 +18,7 @@ The `[code]` will be ...
       - [NCPA.ED.100.001 *Student Employment Guidelines*](ncpa:ed:100:001)
   - GV Governance
     - 100 Executive Structure
-      - NCPA.GV.100.001 *Executive Structure and Governance*
+      - [NCPA.GV.100.001 *Executive Structure and Governance*](ncpa.gv.100.001)
     - 200 Staff Positions and Promotion
       - NCPA.GV.200.001 *Scientist Position and Promotion Guidelines*
       - NCPA.GV.200.002 *RandD Staff Position and Promotion Guidelines*
