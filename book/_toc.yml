@@ -18,4 +18,5 @@ parts:
         title: NCPA.GV.200.001 Scientist Position and Promotion Guidelines
       - file: policyfiles/NCPA.GV.200.002_active_2024-07-25_RandDstaffPositionAndPromotionGuidelines
         title: NCPA.GV.200.002 R+D Position and Promotion Guidelines
-
+      - file: policyfiles/NCPA.GV.300.001_active_2013-12-31_jointAppointmentGuidelines
+        title: NCPA.GV.300.001 Joint Appointment Guidelines
