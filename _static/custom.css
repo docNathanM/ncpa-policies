@@ -6,21 +6,21 @@
 h1 {
     font-family: "Cormorant Garamond", serif; /* Change to your desired font */
     font-weight: 700;
-    color: #14213D !important; /* Optional: Adjust color */
+    color: #182234 !important; /* Optional: Adjust color */
 }
 
 /* Change font family for all headings */
-h2, h3, h4, h5, h6 {
+h2 {
     font-family: "Cormorant Garamond", serif; /* Change to your desired font */
     font-weight: 600;
-    color: #CE1126 !important; /* Optional: Adjust color */
+    color: #B92533 !important; /* Optional: Adjust color */
 }
 
 /* Change font family for all headings */
 h3, h4, h5, h6 {
     font-family: "Cormorant Garamond", serif; /* Change to your desired font */
     font-weight: 600;
-    color: #14213D !important; /* Optional: Adjust color */
+    color: #182234 !important; /* Optional: Adjust color */
 }
 
 body {

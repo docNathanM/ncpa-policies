@@ -23,10 +23,10 @@ The `[code]` will be ...
       - [NCPA.GV.200.001 *Scientist Position and Promotion Guidelines*](ncpa.gv.200.001)
       - [NCPA.GV.200.002 *R+D Staff Position and Promotion Guidelines*](ncpa.gv.200.002)
     - 300 Joint Appointments and Affiliate Status
-      - NCPA.GV.300.001 *Joint Appointment Guidelines*
+      - [NCPA.GV.300.001 *Joint Appointment Guidelines*](ncpa.gv.300.001)
   - RA Research Administration
     - 100 Financial Structure
-      - NCPA.RA.100.001 *Overhead Policy*
+      - [NCPA.RA.100.001 *Overhead Policy*](ncpa.ra.100.001)
       - NCPA.RA.100.002 *NCPA Fund 10 Budget*
     - 200 Research Enhancement and Support
       - NCPA.RA.200.001 *NCPA Seed Grant Program*
