@@ -16,6 +16,13 @@ h2, h3, h4, h5, h6 {
     color: #CE1126 !important; /* Optional: Adjust color */
 }
 
+/* Change font family for all headings */
+h3, h4, h5, h6 {
+    font-family: "Cormorant Garamond", serif; /* Change to your desired font */
+    font-weight: 600;
+    color: #14213D !important; /* Optional: Adjust color */
+}
+
 body {
     font-family: "Manrope", sans-serif;
     font-size: 16px;
