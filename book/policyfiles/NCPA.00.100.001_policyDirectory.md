@@ -27,7 +27,7 @@ The `[code]` will be ...
   - RA Research Administration
     - 100 Financial Structure
       - [NCPA.RA.100.001 *Overhead Policy*](ncpa.ra.100.001)
-      - NCPA.RA.100.002 *NCPA Fund 10 Budget*
+      - [NCPA.RA.100.002 *NCPA Fund 10 Budget*](ncpa.ra.100.002)
     - 200 Research Enhancement and Support
       - NCPA.RA.200.001 *NCPA Seed Grant Program*
       - NCPA.RA.200.002 *Bridge Support Policy*
