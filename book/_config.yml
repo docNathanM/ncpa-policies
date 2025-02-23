@@ -54,6 +54,7 @@ parse:
 #     - smartquotes
 #     - substitution
     myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
+    myst_links_external_new_tab: true
     
 # Uncomment to use mermaid diagrams
 # sphinx:
