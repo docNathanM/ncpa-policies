@@ -43,8 +43,8 @@ div#sidebar {
     }
 }
 
-
 /* Add FontAwesome 'open in new tab' icon for external links */
+/* The javascript to make the links have target=_blank is in the external-links.js file */
 a.external-link::after {
     font-family: "Font Awesome 6 Free";
     content: "\f35d"; /* Unicode for 'external-link-alt' icon */
