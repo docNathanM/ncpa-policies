@@ -39,7 +39,7 @@ html:
   use_repository_button: true
   extra_css: ["_static/custom.css"] # Add some custom CSS tweaking.
 
-# parse:
+parse:
 #   # myst_substitutions:
 #   #   sub3: My _global_ value!
 #   myst_enable_extensions: # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
@@ -53,6 +53,7 @@ html:
 #     - replacements
 #     - smartquotes
 #     - substitution
+    myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
     
 # Uncomment to use mermaid diagrams
 # sphinx:
