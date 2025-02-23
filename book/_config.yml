@@ -37,6 +37,7 @@ html:
   favicon: favicon.ico
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
   extra_javascript: ["_static/external-links.js"] # This was added to get external links to open a new tab.
   extra_css: ["_static/custom.css"] # Add some custom CSS tweaking.
 
