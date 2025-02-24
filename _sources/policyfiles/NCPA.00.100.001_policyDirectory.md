@@ -36,7 +36,7 @@ The `[code]` will be ...
     - 100 Building Security
       - [NCPA.SC.100.001 *Building Access and Security Policy*](ncpa.sc.100.001)
     - 200 Controlled Unclassified Information (CUI)
-      - NCPA.SC.200.001 *Protection of CUI*
+      - [NCPA.SC.200.001 *Protection of CUI*](ncpa.sc.200.001)
 
 <!-- ## Things That Need Work Next
 
