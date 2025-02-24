@@ -24,3 +24,5 @@ parts:
         title: NCPA.RA.100.001 Overhead Policy
       - file: policyfiles/NCPA.RA.100.002_active_2021-04-30_NCPAfund10budget
         title: NCPA.RA.100.002 NCPA Fund 10 Budget
+      - file: policyfiles/NCPA.RA.200.001_active_2013-06-27_NCPAseedGrantProgram
+        title: NCPA.RA.200.001 NCPA Seed Grant Program
