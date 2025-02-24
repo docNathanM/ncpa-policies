@@ -30,7 +30,7 @@ The `[code]` will be ...
       - [NCPA.RA.100.002 *NCPA Fund 10 Budget*](ncpa.ra.100.002)
     - 200 Research Enhancement and Support
       - [NCPA.RA.200.001 *NCPA Seed Grant Program*](ncpa.ra.200.001)
-      - NCPA.RA.200.002 *Bridge Support Policy*
+      - [NCPA.RA.200.002 *Bridge Support Policy*](ncpa.ra.200.002)
       - NCPA.RA.200.003 *Draft Budget for Bridge or Seed Grant Requests*
   - SC Security Policies
     - 100 Building Security
