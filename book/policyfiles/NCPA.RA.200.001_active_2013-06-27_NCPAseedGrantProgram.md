@@ -20,7 +20,7 @@ The total length of the proposal shall not exceed 2 pages (excluding budget and 
 - Introduction to the scientific question(s) to be studied
 - Objectives, a research plan and a time schedule for the performance.
 - A narrative describing how these new results or capabilities will be used in future proposals. This should include a list of potential sponsors, why they would be interested, and past efforts in acquiring funding in this area.
-- A budget including:
+- A budget (download budget template [here](attachments/templateBudget_forBridgeOrSeedGrantRequests.xlsx)):
   - salary and fringe for all personnel to be involved – if budget allows, this could include time to develop a full external proposal
   - equipment and supplies required
   - publication fees (if applicable)

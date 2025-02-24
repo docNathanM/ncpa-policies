@@ -30,3 +30,5 @@ parts:
         title: NCPA.RA.200.002 Bridge Support Policy
       - file: policyfiles/NCPA.SC.100.001_active_2018-08-30_buildingAccessProtocols
         title: NCPA.SC.100.001 Building Access and Security Policy
+      - file: policyfiles/NCPA.SC.200.001_active_2018-04-04_protectionOf_CUI
+        title: NCPA.SC.200.001 Protection of CUI
