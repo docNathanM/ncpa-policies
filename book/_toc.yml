@@ -28,3 +28,5 @@ parts:
         title: NCPA.RA.200.001 NCPA Seed Grant Program
       - file: policyfiles/NCPA.RA.200.002_active_2013-10-02_bridgeSupportPolicy
         title: NCPA.RA.200.002 Bridge Support Policy
+      - file: policyfiles/NCPA.SC.100.001_active_2018-08-30_buildingAccessProtocols
+        title: NCPA.SC.100.001 Building Access and Security Policy

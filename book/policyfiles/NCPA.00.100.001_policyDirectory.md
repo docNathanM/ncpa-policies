@@ -31,10 +31,10 @@ The `[code]` will be ...
     - 200 Research Enhancement and Support
       - [NCPA.RA.200.001 *NCPA Seed Grant Program*](ncpa.ra.200.001)
       - [NCPA.RA.200.002 *Bridge Support Policy*](ncpa.ra.200.002)
-      - NCPA.RA.200.003 *Draft Budget for Bridge or Seed Grant Requests*
+      - [NCPA.RA.200.003 *Draft Budget for Bridge or Seed Grant Requests*](ncpa.ra.200.002)
   - SC Security Policies
     - 100 Building Security
-      - NCPA.SC.100.001 *Building Access Protocols*
+      - [NCPA.SC.100.001 *Building Access and Security Policy*](ncpa.sc.100.001)
     - 200 Controlled Unclassified Information (CUI)
       - NCPA.SC.200.001 *Protection of CUI*
 
