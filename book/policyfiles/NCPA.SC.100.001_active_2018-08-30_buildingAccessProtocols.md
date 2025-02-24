@@ -9,8 +9,6 @@
 
 **For emergencies dial 4-911** from any campus phone or call 915-7234.
 
-You may call 4-911 from a campus phone or call 915-7234
-
 - UPD will not be entering the building due to propped door alarms or forced entry alarms.  
 - This means that NCPA employees must be diligent in securing our building. 
 - If you see anyone in the building that you do not recognize, say "Hello" and get to know them if you feel safe in doing so. Call UPD if you feel unsafe or have any concern.
