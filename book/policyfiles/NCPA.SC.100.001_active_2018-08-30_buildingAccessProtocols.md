@@ -54,4 +54,6 @@
 :alt: Buiiding Access Points
 :width: 90%
 :align: center
+
+NCPA Building Access: Points of entry and exit.
 ```
