@@ -47,6 +47,14 @@
 
     3.  Third offense - Permanent loss of afterhours privileges
 
+## In the Event of a Fire Alarm
+
+In the event of a fire alarm, everyone should proceed to the nearest exit in a calm manner and waited outside until the fire department has cleared the building.
+
+[Facilities Management operations website](https://facilitiesmanagement.olemiss.edu/mission-vision-values/facilities-operations/additional-services/) includes this direction for all building occupants:
+
+All occupants are required to leave the building when a fire alarm sound. Occupants evacuating a building should not use elevators. Occupants should use the stairwells. No one should re-enter the building until authorized to do so by fire officials. Once out of the building, report the fire location by dialing 911 or by notifying University Police by dialing 662-915-7234 on a cell phone or by using a phone in another building. Malicious tampering with building fire alarms, fire protection systems or fire extinguishers is prohibited. Violators are subject to disciplinary action, monetary fine or both.
+
 ## Building Access Points-of-Entry Map
 
 ```{figure} attachments/buildingAccess.jpg
