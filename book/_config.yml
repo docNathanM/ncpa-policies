@@ -2,10 +2,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: DFEC
-logo: logo.png
-copyright: '2023'
+title: NCPA Policies
+author: NEM
+logo: ncpa-logo.jpg
+copyright: '2025'
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -19,15 +19,15 @@ launch_buttons:
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
-    targetname: book.tex
+    targetname: ncpaPolicyDocs.tex
 
 # Add a bibtex file so that we can create citations
-# bibtex_bibfiles:
-#  - references.bib
+bibtex_bibfiles:
+ - references.bib
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/usafa-ece/jupyterbook-template  # Online location of your book
+  url: https://github.com/docNathanM/ncpa-policies  # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
@@ -37,8 +37,8 @@ html:
   favicon: favicon.ico
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
+  extra_javascript: ["_static/external-links.js"] # This was added to get external links to open a new tab.
+  extra_css: ["_static/custom.css"] # Add some custom CSS tweaking.
 
-# Uncomment to use mermaid diagrams
-# sphinx:
-  # extra_extensions:
-    # - sphinxcontrib.mermaid
+

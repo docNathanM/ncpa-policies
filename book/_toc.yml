@@ -4,11 +4,31 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Course Info
+  - caption: Introduction
     chapters:
-      - file: faq
-  - caption: Readings
+      - file: policyfiles/NCPA.00.100.001_policyDirectory
+      - file: policyfiles/NCPA.00.100.002_relationToUniversityPolicy
+  - caption: Policies
     chapters:
-      - file: markdown
-      - file: notebooks
-      - file: markdown-notebooks
+      - file: policyfiles/NCPA.ED.100.001_active_2005-02-04_studentEmploymentGuidelines
+        title: NCPA.ED.100.001 Student Employment Guidelines
+      - file: policyfiles/NCPA.GV.100.001_active_2013-06-20_executiveStructureAndGovernance
+        title: NCPA.GV.100.001 Executive Structure and Governance
+      - file: policyfiles/NCPA.GV.200.001_active_2010-03-05_scientistPositionAndPromotionGuidelines
+        title: NCPA.GV.200.001 Scientist Position and Promotion Guidelines
+      - file: policyfiles/NCPA.GV.200.002_active_2024-07-25_RandDstaffPositionAndPromotionGuidelines
+        title: NCPA.GV.200.002 R+D Position and Promotion Guidelines
+      - file: policyfiles/NCPA.GV.300.001_active_2013-12-31_jointAppointmentGuidelines
+        title: NCPA.GV.300.001 Joint Appointment Guidelines
+      - file: policyfiles/NCPA.RA.100.001_active_1999-01-12_overheadPolicy
+        title: NCPA.RA.100.001 Overhead Policy
+      - file: policyfiles/NCPA.RA.100.002_active_2021-04-30_NCPAfund10budget
+        title: NCPA.RA.100.002 NCPA Fund 10 Budget
+      - file: policyfiles/NCPA.RA.200.001_active_2013-06-27_NCPAseedGrantProgram
+        title: NCPA.RA.200.001 NCPA Seed Grant Program
+      - file: policyfiles/NCPA.RA.200.002_active_2013-10-02_bridgeSupportPolicy
+        title: NCPA.RA.200.002 Bridge Support Policy
+      - file: policyfiles/NCPA.SC.100.001_active_2018-08-30_buildingAccessProtocols
+        title: NCPA.SC.100.001 Building Access and Security Policy
+      - file: policyfiles/NCPA.SC.200.001_active_2018-04-04_protectionOf_CUI
+        title: NCPA.SC.200.001 Protection of CUI
