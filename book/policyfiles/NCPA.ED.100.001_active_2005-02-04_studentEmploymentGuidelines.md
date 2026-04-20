@@ -11,7 +11,7 @@
 
 **date**: as of Aug 19, 2024
 
-The following tables show compensation for undergrads and stipend amounts for Graduate Assistants of the NCPA Aeroacoustics group effective Fall 2024-2025.
+The following tables show compensation for undergrads and stipend amounts for Graduate Assistants based on current pay across groups effective Fall 2024-2025.
 
 | Graduate Students |                                                              |
 | ----------------- | ------------------------------------------------------------ |
