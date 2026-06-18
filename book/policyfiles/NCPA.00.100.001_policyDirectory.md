@@ -48,3 +48,5 @@ The `[code]` will be ...
   - space allocation
   - executive committee membership/rotation
   - advisory board membership/rotation/duties -->
+
+  <!-- 2026-06-18 NEM -->
