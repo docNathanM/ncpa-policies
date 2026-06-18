@@ -1,3 +1,7 @@
+# IMPORTANT: jupyter-book updated to MyST and changed the config and deploy actions.
+# at some point I may be forced to update. I have started a branch that allows this,
+# but for now I can maintain my current policy book by forcing the use of the older
+# jupyter-book version 1.* ...
 jupyter-book<2.0
 pre-commit
 # Uncomment if using mermaid diagrams
