@@ -35,7 +35,7 @@ jobs:
           name: book
           path: book/_build/html/
           retention-days: 1
-          overwrite: true
+          if-no-files-found: error
 
       # Push the book's HTML to github-pages
       - name: GitHub Pages action
