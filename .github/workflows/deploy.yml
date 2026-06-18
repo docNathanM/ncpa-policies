@@ -25,9 +25,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Clean the book
+      - name: Clean the book
+        run: juptyer-book clean book/
+
       # Build the book
       - name: Build the book
-        run: juptyer-book clean book/
         run: jupyter-book build book/
 
       - name: Upload book as artifact
