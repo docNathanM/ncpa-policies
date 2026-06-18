@@ -27,6 +27,7 @@ jobs:
 
       # Build the book
       - name: Build the book
+        run: juptyer-book clean book/
         run: jupyter-book build book/
 
       - name: Upload book as artifact
