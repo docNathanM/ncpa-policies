@@ -28,7 +28,7 @@ jobs:
       # Build the book
       - name: Build the book
         working-directory: book
-        run: jupyter-book build .
+        run: jupyter-book build _toc.yml
 
       - name: Upload book as artifact
         uses: actions/upload-artifact@v7
