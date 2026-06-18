@@ -30,7 +30,7 @@ jobs:
         run: jupyter-book build book/
 
       - name: Upload book as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: book
           path: book/_build/html/
