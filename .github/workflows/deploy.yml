@@ -1,4 +1,4 @@
-# This file was created automatically with `jupyter-book init --gh-pages` 🪄 💚
+# This file was created automatically with `jupyter-book init --gh-pages`
 # Ensure your GitHub Pages settings for this repository are set to deploy with **GitHub Actions**.
 
 name: Jupyter Book (via myst) GitHub Pages Deploy
