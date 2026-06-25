@@ -57,10 +57,9 @@ The criteria to be considered in the evaluation for appointment and promotion fo
 
 1. Minimum four years product research and development experience beyond the R&D Staff II level. (A candidate may be considered in less than four years if there is evidence of outstanding achievement) Time spent on leave may be counted if the leave was such as to enhance the candidate's professional qualifications.
 2. May apply for and/or act as principal investigator on sponsored research projects with approvals according to applicable University procedures and policies.
-3. Possession of this rank should indicate that the individual has achieved national
-4. recognition, and that he/she is capable of independently leading significant technical tasks or projects.
-5. Possession of this rank should indicate that the candidate is actively involved in mentoring students and/or subordinate team members.
-6. Successful prototype development, as evidenced by numerous completed prototypes, granting of patents, and published articles in leading journals, if applicable.
+3. Possession of this rank should indicate that the individual has achieved national recognition, and that he/she is capable of independently leading significant technical tasks or projects.
+4. Possession of this rank should indicate that the candidate is actively involved in mentoring students and/or subordinate team members.
+5. Successful prototype development, as evidenced by numerous completed prototypes, granting of patents, and published articles in leading journals, if applicable.
 
 ### Senior R\&D Staff II
 
